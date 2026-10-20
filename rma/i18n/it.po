@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 14.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-10-01 08:46+0000\n"
+"PO-Revision-Date: 2026-10-11 09:46+0000\n"
 "Last-Translator: mymage <stefano.consolaro@mymage.it>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -1373,6 +1373,11 @@ msgid "Manage tags to better classify them for tracking and analysis purposes."
 msgstr ""
 "Gestisci i tag per classificarli meglio ai fini del monitoraggio e "
 "dell'analisi."
+
+#. module: rma
+#: model_terms:ir.ui.view,arch_db:rma.portal_my_home_rma
+msgid "Manage your RMA Orders"
+msgstr "Gestisci i tuoi ordini RMA"
 
 #. module: rma
 #: model:res.groups,name:rma.rma_group_manager
